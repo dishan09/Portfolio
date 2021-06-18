@@ -1,2 +1,3 @@
 # Portfolio
-hey, this is a basic portfolio using html,css and a bit of JavaScript
+hey, this is a basic portfolio using HTML and CSS
+This is just a basic verison, looking to add new stuff to it
